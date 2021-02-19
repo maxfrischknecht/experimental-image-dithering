@@ -132,4 +132,5 @@ convert input.png -monochrome -morphology Thinning:-1 Skeleton output.jpg
 
 # Resources
 
+* [CLI for Artists + Designers](https://ffd8.github.io/cli-for-artists-and-designers/)
 * [Official Docs](https://imagemagick.org/script/command-line-options.php#dither)
