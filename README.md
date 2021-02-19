@@ -130,6 +130,6 @@ convert input.png -monochrome -morphology Thinning:-1 Skeleton output.jpg
 
 ![](./Examples/example-monochrome-morphologyThinningSkeleton1.jpg)
 
-# Ressources
+# Resources
 
 * [Official Docs](https://imagemagick.org/script/command-line-options.php#dither)
